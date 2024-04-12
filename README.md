@@ -1,4 +1,4 @@
-# cNMMM9U6
+# AnythingCounter
 
 Quick start:
 
